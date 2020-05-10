@@ -33,4 +33,4 @@
 + \textbf 加粗 \textit 斜体/楷体
 
 ### 示例
-![image](https://github.com/dyinnz/uniquecv/blob/master/example.jpg)
+![image](https://github.com/ar-cheng/uniquecv/example.jpg)
